@@ -1,1 +1,5 @@
-# cdi-05
+# 7 Segmentos
+
+Alumno: Lautaro Santolucito
+Curso: 4to 1ra AVIONICA
+Materia: Control de Interfaces
